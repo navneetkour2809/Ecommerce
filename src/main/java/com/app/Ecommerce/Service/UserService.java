@@ -1,6 +1,6 @@
 package com.app.Ecommerce.Service;
 import com.app.Ecommerce.Model.User;
-import com.app.Ecommerce.Model.userRepository;
+import com.app.Ecommerce.Repository.userRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
